@@ -1,0 +1,11 @@
+Model Information:
+* title:	Large Camping BackPack (Free/GameReady)
+* source:	https://sketchfab.com/3d-models/large-camping-backpack-freegameready-a7086b50dae84706b81bb3ce14ad9094
+* author:	Sebastian Webster (https://sketchfab.com/Sebastian.Hamish.Webster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Large Camping BackPack (Free/GameReady)" (https://sketchfab.com/3d-models/large-camping-backpack-freegameready-a7086b50dae84706b81bb3ce14ad9094) by Sebastian Webster (https://sketchfab.com/Sebastian.Hamish.Webster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

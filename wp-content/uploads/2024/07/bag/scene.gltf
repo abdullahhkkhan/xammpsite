@@ -1,0 +1,472 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1021,
+      "max": [
+        0.21444201469421387,
+        0.7685787081718445,
+        0.2892598509788513
+      ],
+      "min": [
+        -0.7190485596656799,
+        -0.44000566005706787,
+        -0.28073304891586304
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12252,
+      "componentType": 5126,
+      "count": 1021,
+      "max": [
+        0.9999306201934814,
+        0.9942529797554016,
+        0.9998981952667236
+      ],
+      "min": [
+        -0.999976634979248,
+        -0.998620867729187,
+        -0.999732255935669
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1021,
+      "max": [
+        0.9999983906745911,
+        0.999943196773529,
+        0.9956706762313843,
+        1.0
+      ],
+      "min": [
+        -0.9947423934936523,
+        -0.999992311000824,
+        -0.99979168176651,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1021,
+      "max": [
+        0.9989199638366699,
+        0.9869089722633362
+      ],
+      "min": [
+        2.3841900542720396e-07,
+        2.3469300458600628e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4722,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24504,
+      "componentType": 5126,
+      "count": 4584,
+      "max": [
+        0.4721735119819641,
+        0.583818793296814,
+        0.9710056185722351
+      ],
+      "min": [
+        -0.11679492890834808,
+        -0.3238510489463806,
+        -0.7563471794128418
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 79512,
+      "componentType": 5126,
+      "count": 4584,
+      "max": [
+        0.9996492862701416,
+        0.9994171857833862,
+        0.9997460842132568
+      ],
+      "min": [
+        -0.999725341796875,
+        -0.9996808767318726,
+        -0.9958747625350952
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 16336,
+      "componentType": 5126,
+      "count": 4584,
+      "max": [
+        0.9993912577629089,
+        0.999967634677887,
+        0.9999912977218628,
+        1.0
+      ],
+      "min": [
+        -0.9971715211868286,
+        -0.9991465210914612,
+        -0.9998242259025574,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8168,
+      "componentType": 5126,
+      "count": 4584,
+      "max": [
+        1.0000044107437134,
+        0.9999989867210388
+      ],
+      "min": [
+        0.00016705052985344082,
+        -5.576293915510178e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 44840,
+      "componentType": 5126,
+      "count": 4584,
+      "max": [
+        1.0000044107437134,
+        0.9999989867210388
+      ],
+      "min": [
+        0.00016705052985344082,
+        -5.576293915510178e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 81512,
+      "componentType": 5126,
+      "count": 4584,
+      "max": [
+        1.0000044107437134,
+        0.9999989867210388
+      ],
+      "min": [
+        0.00016705052985344082,
+        -5.576293915510178e-07
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 18888,
+      "componentType": 5125,
+      "count": 20928,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Sebastian Webster (https://sketchfab.com/Sebastian.Hamish.Webster)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/large-camping-backpack-freegameready-a7086b50dae84706b81bb3ce14ad9094",
+      "title": "Large Camping BackPack (Free/GameReady)"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 102600,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 118184,
+      "byteOffset": 102600,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 134520,
+      "byteOffset": 220784,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 89680,
+      "byteOffset": 355304,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 444984,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/BaseBag_test_Base_baseColor.png"
+    },
+    {
+      "uri": "textures/BaseBag_test_Base_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/BaseBag_test_Base_normal.png"
+    },
+    {
+      "uri": "textures/BaseBag_test_Extra_baseColor.png"
+    },
+    {
+      "uri": "textures/BaseBag_test_Extra_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/BaseBag_test_Extra_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "BaseBag_test_Base",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "BaseBag_test_Extra",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Bag_LOD0_BaseBag_test_Base_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Straps_LOD0_BaseBag_test_Extra_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "TEXCOORD_2": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "BigBagAssembly_SketchFab.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        99.9999999999999,
+        4.371138828673791e-06,
+        0.0,
+        0.0,
+        -5.9796680273083054e-06,
+        136.79885864257798,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Bag_LOD0"
+    },
+    {
+      "mesh": 0,
+      "name": "Bag_LOD0_BaseBag_test_Base_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -142.69468688963354,
+        -3.4140080875505574e-05,
+        5.5567362704119965e-05,
+        0.0,
+        1.2351102158783366e-05,
+        67.8867243884656,
+        73.42610334073544,
+        0.0,
+        -2.926463469704209e-05,
+        48.83225769069766,
+        -45.14827654316535,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Straps_LOD0"
+    },
+    {
+      "mesh": 1,
+      "name": "Straps_LOD0_BaseBag_test_Extra_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
